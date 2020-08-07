@@ -1,25 +1,14 @@
 # proofy
- Rocketseat - Next Level Week 2 Project
+<p align="center"><b> Rocketseat - Next Level Week 2 Project</b></p>
 
+![Logo Proffy](images/desktop.png)
 
-<h1 align="center">
-  		
-</h1>
 
 ## Sobre o projeto
 
 Uma plataforma de estudos online que conecta de forma simples e rápida.
 
 O projeto base foi desenvolvido na Next Level Week #2 da https://rocketseat.com.br/
-
-## 📸 Screenshots
-
-<p align="center"><b>Interface Web para Desktop</b></p>
-<p align="center">
-  <img src="./layout_images/desktop.png" alt="Landing Page Proffy in Desktop" />
-  <img src="./layout_images/mobile.png" alt="Landing Page Proffy in Mobile" />
-</p>
-
 
 ## 🛠 Stack
 
