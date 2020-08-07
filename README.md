@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  		<img src="./layout_images/desktop.png" alt="Logo da Proffy" />
+  		
 </h1>
 
 ## Sobre o projeto
